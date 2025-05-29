@@ -1,0 +1,63 @@
+ body{
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image:url ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 20px;
+}
+h1 {
+    animation: glow 2s infinite;
+    color: red;
+    text-align: center;
+}
+ul {
+    font-size: 1.2em;
+}
+WATCH SOME OF MY ANIME EDITS HERE {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: crimson;
+    color: white;
+    border-radius: 5px;
+    transition: background-color
+    0.3s ease;
+}
+.logo{
+    width: 120px;
+    margin: 10px;
+}
+about{
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 2);
+}
+.about h2 {
+    color:#e60026;
+}
+body {
+    background-image:
+    url("akatsuki\ cloud.jpg");
+     background-size: cover;
+     background-attachment: fixed;
+     color:white;
+
+}
+.quote {
+    background: rgba(0, 0, 0.7);
+    padding: 15px;
+    border-left: 4px solid red;
+    margin-top: 20px;
+    font-style: italic;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    color:#e60026;
+    margin-top: 30px;
+}
